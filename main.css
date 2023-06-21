@@ -56,7 +56,6 @@ body {
     justify-content: end;
     align-items: end;
     position: relative;
-    height: 0.5vh;
 }
 
 .dayname {
